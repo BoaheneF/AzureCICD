@@ -1,0 +1,15 @@
+{
+  "name": "cypressazuredemo",
+  "version": "1.0.0",
+  "description": "azure project",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome --spec cypress/e2e/testingAzureCICD/testazure.cy.js"
+  },
+  "author": "Frank",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.3",
+    "mocha": "^10.2.0"
+  }
+}
