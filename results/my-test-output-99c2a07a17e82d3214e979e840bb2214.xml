@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="13.435" tests="3" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-10-30T11:35:30" tests="0" file="cypress\e2e\testingAzureCICD\testazure.cy.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Actions" timestamp="2023-10-30T11:35:30" tests="3" time="13.389" failures="0">
+    <testcase name="Actions .type() - type into a DOM element" time="5.148" classname=".type() - type into a DOM element">
+    </testcase>
+    <testcase name="Actions .focus() - focus on a DOM element" time="0.696" classname=".focus() - focus on a DOM element">
+    </testcase>
+    <testcase name="Actions .blur() - blur off a DOM element" time="0.716" classname=".blur() - blur off a DOM element">
+    </testcase>
+  </testsuite>
+</testsuites>

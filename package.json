@@ -4,7 +4,7 @@
   "description": "azure project",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run --browser chrome --spec cypress/e2e/testingAzureCICD/testazure.cy.js"
+    "test": "cypress run --headed new --browser chrome --spec cypress/e2e/testingAzureCICD/testazure.cy.js"
   },
   "author": "Frank",
   "license": "ISC",
